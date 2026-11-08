@@ -67,6 +67,11 @@ $ python -m rag ask "Who won the 2018 football world cup?"
 I don't know based on the provided documents.
 ```
 
+## Screenshot
+![Example output: a grounded, cited answer and an "I don't know" refusal](docs/screenshots/example-output.png)
+
+_Real output from a local run with `qwen2.5:7b` through Ollama (terminal text rendered as an image)._
+
 ## Project layout
 ```
 rag/
